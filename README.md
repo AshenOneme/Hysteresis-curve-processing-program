@@ -10,3 +10,18 @@
     <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224472837-3cd0aeba-c583-4135-b821-658972dfb152.gif"/></td>
   </tr>
 </table>
+
+* ### 程序主要功能 ###
+![1](https://user-images.githubusercontent.com/98397090/224473136-5e3bee08-ac94-4f45-a74b-f6b1f220b65f.png)
+
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224473136-5e3bee08-ac94-4f45-a74b-f6b1f220b65f.png"/></td>
+  </tr>
+    <tr>
+    <td>骨架曲线提取</td>
+  </tr>
+  <tr>
+    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224472837-3cd0aeba-c583-4135-b821-658972dfb152.gif"/></td>
+  </tr>
+</table>
