@@ -4,9 +4,9 @@
 * ### 程序使用展示 ###
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td><img width="550px" src="https://user-images.githubusercontent.com/98397090/224472834-9d5216be-9d3d-4189-9202-943a65c0b7e0.gif"/></td>
+    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224472834-9d5216be-9d3d-4189-9202-943a65c0b7e0.gif"/></td>
   </tr>
   <tr>
-    <td><img width="550px" src="https://user-images.githubusercontent.com/98397090/224472837-3cd0aeba-c583-4135-b821-658972dfb152.gif"/></td>
+    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224472837-3cd0aeba-c583-4135-b821-658972dfb152.gif"/></td>
   </tr>
 </table>
