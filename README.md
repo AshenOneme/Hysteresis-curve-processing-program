@@ -17,11 +17,11 @@
 * ### 程序主要功能 ###
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224473136-5e3bee08-ac94-4f45-a74b-f6b1f220b65f.png"/></td>
+    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224713890-091677db-8ce9-4974-a9d1-ec87f3b7bfcf.png"/></td>
   </tr>
   <tr>
      <td colspan="2">
-     <div align=center>(a) 骨架曲线+残余变形+能量耗散</div>
+     <div align=center>(a) 骨架曲线+残余变形+能量耗散+刚度退化</div>
   </tr>
   <tr>
     <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/224473326-6f062bfb-0002-4924-8e8e-0ce423a4cde7.png"/></td>
