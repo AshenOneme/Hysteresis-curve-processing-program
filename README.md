@@ -1,4 +1,4 @@
-# Hysteresis curve processing program
+# Hysteresis curves processing program
 # 滞回曲线处理程序
 
 * ### 程序使用展示 ###
