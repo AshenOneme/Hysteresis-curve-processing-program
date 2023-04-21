@@ -30,9 +30,17 @@
      <td colspan="2">
      <div align=center>(b) 滞回环拆解输出</div>
   </tr>
+</table>
 
 * ### Master分支添加新功能--数据重构 ###
 <table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/233542180-1de50806-626a-4018-a9ee-c0d18b6d2890.png"/></td>
+  </tr>
+  <tr>
+     <td colspan="2">
+     <div align=center>程序界面 (按顺序点击即可)</div>
+  </tr>
   <tr>
     <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/233541655-6d6cd3df-b089-46bc-a2ea-2718c5bb34f9.png"/></td>
   </tr>
@@ -47,5 +55,5 @@
      <td colspan="2">
      <div align=center>(b) 数据重构后滑移去除</div>
   </tr>
-
+</table>
 
